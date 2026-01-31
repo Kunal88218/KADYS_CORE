@@ -1,0 +1,1 @@
+# KADYS_CORE
